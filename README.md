@@ -25,6 +25,13 @@ The Week 4 server response details in the operations record are based on the res
 The Week 5 folder contains:
 - `summary.md`: Notes on SMART App Launch, discovery-document endpoints, scopes and patient context, and the SMART App Gallery exploration. It also records Caren mHealth as the additional app explored and notes that screenshots were not retained for that fourth activity.
 
+## Week 7 – Patient Appointment Prep planning
+
+The Week 7 folder contains:
+- `project-plan.md`: Starter-app fork details, application purpose, FHIR resource mapping, first-screen sketch description, essential features, and future enhancements.
+
+The separate starter-app fork is [tyquasiah/Patient-Appointment-Prep](https://github.com/tyquasiah/Patient-Appointment-Prep). The starter code was not modified during Week 7.
+
 ## Standards note
 
 Week 3 resources use FHIR R5, as specified in the Week 3 project instructions. Later weeks may use different FHIR versions as directed by their task instructions.
