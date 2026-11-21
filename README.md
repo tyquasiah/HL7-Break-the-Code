@@ -12,6 +12,14 @@ The Week 3 folder contains:
 
 All patient information in this repository is fictional and is used for educational practice only.
 
+## Week 4 – HAPI FHIR R4 server exercise
+
+The Week 4 folder contains:
+- `patient.json`: Fictional NyAsia Ashante Hill Patient resource prepared for FHIR R4 and the US Core 6.1.0 Patient profile.
+- `server-operations.md`: Record of the reported POST (201), GET (200), and DELETE (200) results, including the server-assigned Patient ID.
+
+The Week 4 server response details in the operations record are based on the results reported during the exercise. Screenshot evidence should be kept and submitted separately as directed by the instructor.
+
 ## Standards note
 
 Week 3 resources use FHIR R5, as specified in the Week 3 project instructions. Later weeks may use different FHIR versions as directed by their task instructions.
