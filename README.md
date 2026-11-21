@@ -20,6 +20,11 @@ The Week 4 folder contains:
 
 The Week 4 server response details in the operations record are based on the results reported during the exercise. Screenshot evidence should be kept and submitted separately as directed by the instructor.
 
+## Week 5 – SMART on FHIR exploration
+
+The Week 5 folder contains:
+- `summary.md`: Notes on SMART App Launch, discovery-document endpoints, scopes and patient context, and the SMART App Gallery exploration. It also records Caren mHealth as the additional app explored and notes that screenshots were not retained for that fourth activity.
+
 ## Standards note
 
 Week 3 resources use FHIR R5, as specified in the Week 3 project instructions. Later weeks may use different FHIR versions as directed by their task instructions.
